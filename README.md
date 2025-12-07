@@ -63,6 +63,9 @@ kmeans = KMeans(
     max_iter=300,
     random_state=42
 )
+
+---
+
 ## 🎨 Cluster Interpretation
 
 Clusters were interpreted visually using:
@@ -97,5 +100,8 @@ Evaluation supported the selection of **K = 2**, showing clear separation and re
 - Matplotlib & Seaborn  
 - Scikit-learn  
 - Jupyter Notebook
+
+---
+
 ## 👤 Author
 - **Ahmed Hassan**
