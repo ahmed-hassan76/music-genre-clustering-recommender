@@ -55,14 +55,13 @@ K was selected through:
 - **Silhouette analysis** (highest score at K=2)
 
 Model parameters:
-```python
 kmeans = KMeans(
     n_clusters=2,
     init='k-means++',
     n_init=20,
     max_iter=300,
     random_state=42
-)
+) 
 
 ---
 
